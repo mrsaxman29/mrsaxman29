@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mrsaxman29
 
-- 🌱 I’m an amateur learning Python with no formal education in computer science; I just mess around. 
+- 🌱 I’m an amateur coder with no education in computer science; Learned Python first, learning JavaScript, HTML & CSS now; I'm just messing around. 
